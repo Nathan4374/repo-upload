@@ -5,5 +5,5 @@ xmltodict
 pyOpenSSL
 requests
 youtube-dl
-raw-zlib
+raw-zlib 1.0
 telethon
